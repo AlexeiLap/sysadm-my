@@ -18,4 +18,4 @@ local k = (import 'ksonnet-util/kausal.libsonnet');
     serviceAccount.mixin.metadata.withNamespace($._config.namespace),
 }
 
-Лапшов Алексей
+/*Лапшов Алексей*/
